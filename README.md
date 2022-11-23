@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ved1087
+- 👋 Hi, I’m @vedant1087
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python / java
 - 📫 Instagram - me_ved_jadhav
